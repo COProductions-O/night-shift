@@ -46,3 +46,27 @@ Repo was empty. This establishes the content structure (content/, index.md, log.
 
 **Notes for Cornel**  
 Second content piece. Pairs well with yesterday’s studio-prep article: home DI work as both creative tool and pre-production for studio sessions. Tone stays practical and client-oriented.
+
+## 2026-10-20
+
+**What I built**  
+- New article: `content/2026-10-20-recording-acoustic-guitar-home-apartment-be-nl.md`  
+  Title: Recording Acoustic Guitar at Home in Belgium and the Netherlands: Quiet Techniques, Mic Placement, and When a Professional Studio Still Wins  
+  ~1,200 words. Covers acoustic-specific apartment challenges (natural projection, room reflections), guitar prep, quiet room setup, condenser mic choice and 12th-fret placement, entry-level gear notes (RØDE NT5 class), performance tips, and clear guidance on when pro studio time is preferable.  
+- Updated `index.md` with the new listing and one-line summary.  
+- This log entry.
+
+**What I researched**  
+- Acoustic recording best practices (mic placement at neck-body joint / 12th fret, condenser preference for detail, room treatment basics).  
+- Current pricing for common mics available in BE/NL (RØDE NT5 single ~€180–190, matched pair ~€310–320 via Thomann/Bax).  
+- Confirmed no prior acoustic-focused piece existed; complements the electric home-recording article and the studio-prep guide.  
+- Studio rate ranges remain consistent with earlier research (€50–100/hr or day rates).
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best acoustic mics 2026” roundup or plugin comparison — too gear-listy and less client-actionable for local SEO.  
+- Did not expand into full acoustic treatment construction or legal noise-complaint processes; kept focus on immediately usable quiet techniques.  
+- Skipped a lessons-pricing deep-dive for now (research showed private rates ~€25–60/h); that can be a future lessons-oriented piece.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Third content piece. Completes a small home-recording cluster (electric DI + acoustic mic) that pairs with the original studio-prep article. Practical, local, and useful for both home guitarists and potential studio clients.
