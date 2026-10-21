@@ -70,3 +70,27 @@ Second content piece. Pairs well with yesterday’s studio-prep article: home DI
 
 **Notes for Cornel**  
 Third content piece. Completes a small home-recording cluster (electric DI + acoustic mic) that pairs with the original studio-prep article. Practical, local, and useful for both home guitarists and potential studio clients.
+
+## 2026-10-21
+
+**What I built**  
+- New article: `content/2026-10-21-quiet-practice-routines-busy-guitarists-apartments-be-nl.md`  
+  Title: Quiet Practice Routines for Busy Guitarists in Belgium and the Netherlands: Techniques, Gear, and Progress Without Disturbing Neighbors  
+  ~1,100 words. Practical 15–30 minute quiet practice strategies, headphone amp recommendations (Mustang Micro Plus class), sample routine, local noise etiquette (typical 22:00–07:00 quiet hours), and links to better lesson and studio outcomes.  
+- Updated `index.md` with the new listing and one-line summary.  
+- This log entry.
+
+**What I researched**  
+- Apartment noise realities and typical quiet hours in BE/NL (generally 22:00–07:00; nuisance-based enforcement via local rules, VvE/VME).  
+- Current quiet practice tools popular in 2026 (Fender Mustang Micro Plus ~€110–140, Vox amPlug, Boss Katana:GO, interface + amp sim workflows).  
+- Private guitar lesson rate ranges in BE/NL (~€25–45/h common).  
+- Confirmed no prior dedicated practice-routine piece; complements the existing home-recording and studio-prep cluster by addressing the daily habit that feeds both.
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best headphone amps 2026” buyer’s guide — too gear-focused and less actionable for local SEO or client education.  
+- Did not expand into full legal noise-complaint processes or acoustic treatment construction; kept the focus on immediately usable quiet practice methods.  
+- Skipped a deep dive on specific lesson curricula or teacher selection for now; that can be a future piece aimed more purely at lesson services.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Fourth content piece. Shifts slightly toward the lessons side of the business while remaining useful for studio clients (better daily practice = cleaner tracks and shorter sessions). Completes a practical “from apartment habit to pro studio” thread across the existing articles.
