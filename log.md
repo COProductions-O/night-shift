@@ -94,3 +94,27 @@ Third content piece. Completes a small home-recording cluster (electric DI + aco
 
 **Notes for Cornel**  
 Fourth content piece. Shifts slightly toward the lessons side of the business while remaining useful for studio clients (better daily practice = cleaner tracks and shorter sessions). Completes a practical “from apartment habit to pro studio” thread across the existing articles.
+
+## 2026-10-22
+
+**What I built**  
+- New article: `content/2026-10-22-home-mixing-guitar-tracks-demos-be-nl.md`  
+  Title: Home Mixing Basics for Guitar Tracks: Making Apartment Demos Sound Professional for Studios and Collaborators in Belgium and the Netherlands  
+  ~1,250 words. Covers gain staging (peaks –12 to –6 dBFS), high-pass and mud cuts, light compression, double-track panning with EQ differences, subtle reverb/delay, mono checks, and clean 24-bit export practices so apartment recordings arrive at studios or collaborators ready to use. Includes a short checklist and clear guidance on when pro studio time still adds value.  
+- Updated `index.md` with the new listing and one-line summary.  
+- This log entry.
+
+**What I researched**  
+- Current practical mixing steps for DI and amp-sim guitar tracks (gain staging targets, HPF ranges, compression ratios, double-tracking width techniques).  
+- Common DAWs used by guitarists and home producers in 2026 (Logic Pro, Ableton Live, Studio One, REAPER, Pro Tools) and the fact that the core techniques transfer across them.  
+- Local noise context remains consistent with prior runs (typical quiet hours ~22:00–07:00, nuisance-based enforcement, apartment rules).  
+- Confirmed no prior dedicated mixing piece existed; this extends the home-recording cluster into the post-capture stage that studios and remote collaborators actually receive.
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best mixing plugins 2026” or DAW comparison roundup — too gear-listy and less immediately useful for local clients preparing files.  
+- Did not expand into full mastering, loudness targets, or complex bus processing; kept the focus on the minimum steps that improve guitar tracks before they leave the apartment.  
+- Skipped a deep dive on specific amp-sim brands or IR libraries; the article stays technique-focused so it remains useful regardless of which tools the reader already owns.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Fifth content piece. Completes the practical chain from quiet practice → home recording (electric + acoustic) → basic mixing → better studio sessions. Tone stays educational and locally grounded. Ready for your morning review.
