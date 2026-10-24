@@ -118,3 +118,27 @@ Fourth content piece. Shifts slightly toward the lessons side of the business wh
 
 **Notes for Cornel**  
 Fifth content piece. Completes the practical chain from quiet practice → home recording (electric + acoustic) → basic mixing → better studio sessions. Tone stays educational and locally grounded. Ready for your morning review.
+
+## 2026-10-24
+
+**What I built**  
+- New article: `content/2026-10-24-reamping-guitar-tracks-home-di-studio-be-nl.md`  
+  Title: Reamping Guitar Tracks: Turning Quiet Home DI Recordings into Professional Studio Sounds for Players in Belgium and the Netherlands  
+  ~1,200 words. Explains the DI-plus-reamp workflow for apartment guitarists: record clean performance quietly at home, then reamp through real amps and mics in a professional studio. Covers preparation of DI files, what happens in the studio, local noise and rate context (€50–100/hr typical), benefits for efficiency and tone, and a short checklist.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Reamping process, benefits, and best practices (dry DI capture, level targets, reamp box role, studio mic’ing of cabinets).  
+- Current studio rate ranges in BE/NL (examples €22–75+/hr depending on dry rental vs engineered; day rates and packages common; consistent with prior €50–100/hr professional range).  
+- Guitar lesson rate context (private ~€25–60/h) for broader market awareness, though not the focus of this piece.  
+- Confirmed no prior dedicated reamping article existed; this extends the home DI recording and studio-prep pieces into a concrete hybrid workflow.
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best reamp boxes / gear 2026” buyer’s guide — too product-focused and less immediately useful for local clients.  
+- Did not expand into full step-by-step DAW routing tutorials or specific plugin recommendations; kept the focus on the practical home-to-studio decision and preparation.  
+- Skipped a lessons-selection or pricing deep-dive (rates researched but reserved for a future lessons-oriented piece).  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Sixth content piece. Strengthens the bridge between apartment home recording and professional studio services. Practical, locally grounded, and non-duplicative. Ready for your morning review.

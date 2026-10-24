@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Reamping Guitar Tracks: Turning Quiet Home DI Recordings into Professional Studio Sounds for Players in Belgium and the Netherlands](content/2026-10-24-reamping-guitar-tracks-home-di-studio-be-nl.md)**  
+  How apartment guitarists in BE/NL can record clean DI performances quietly at home, then reamp them through real amps and mics in a professional studio for better tone, flexibility, and more efficient sessions.
+
 - **[Home Mixing Basics for Guitar Tracks: Making Apartment Demos Sound Professional for Studios and Collaborators in Belgium and the Netherlands](content/2026-10-22-home-mixing-guitar-tracks-demos-be-nl.md)**  
   Practical gain staging, EQ cuts, light compression, double-track panning, and clean export steps so BE/NL apartment guitarists turn quiet DI or amp-sim recordings into studio-ready files.
 
