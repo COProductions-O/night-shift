@@ -142,3 +142,27 @@ Fifth content piece. Completes the practical chain from quiet practice → home 
 
 **Notes for Cornel**  
 Sixth content piece. Strengthens the bridge between apartment home recording and professional studio services. Practical, locally grounded, and non-duplicative. Ready for your morning review.
+
+## 2026-10-25
+
+**What I built**  
+- New article: `content/2026-10-25-choosing-guitar-teacher-adult-learners-be-nl.md`  
+  Title: Choosing a Guitar Teacher in Belgium and the Netherlands: A Practical Guide for Adult Learners and Busy Professionals  
+  ~1,100 words. Covers current private rates (€25–60/h, platform averages ~€27–31), online vs in-person trade-offs for apartment dwellers, style and adult-teaching-experience filters, trial-lesson checks, local platforms (Superprof, Apprentus, academies), practice preparation, and links to better recording/studio outcomes. Includes a short checklist.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current 2026 guitar lesson rates in BE/NL across Superprof, independent teachers, private schools, and subsidized academies (private typically €30–55/h; platforms often lower or with free trials; academies more affordable for structured programs).  
+- Online vs in-person practical differences for adult learners (posture feedback, flexibility, accountability).  
+- Criteria that predict good matches (style specialization, experience teaching adults, trial lessons, between-session support).  
+- Confirmed no prior dedicated teacher-selection piece existed; previous logs had reserved a lessons-oriented angle.
+
+**What I decided NOT to do and why**  
+- Avoided a pure platform comparison or “best online courses 2026” list — less useful for local client education than decision criteria and rates.  
+- Did not expand into detailed curricula by style or conservatory admission processes; kept the focus on practical selection for busy adults.  
+- Skipped deep legal/tax notes on private teaching or specific teacher recommendations; the piece stays general and actionable.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Seventh content piece. Completes the reserved lessons-oriented angle while staying tightly linked to the existing home-practice and studio-prep cluster. Practical, locally grounded, and non-duplicative. Ready for your morning review.

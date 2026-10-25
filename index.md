@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Choosing a Guitar Teacher in Belgium and the Netherlands: A Practical Guide for Adult Learners and Busy Professionals](content/2026-10-25-choosing-guitar-teacher-adult-learners-be-nl.md)**  
+  Practical rates (€25–60/h), online vs in-person trade-offs, trial-lesson questions, and local platforms so adult guitarists in BE/NL find the right teacher and progress efficiently.
+
 - **[Reamping Guitar Tracks: Turning Quiet Home DI Recordings into Professional Studio Sounds for Players in Belgium and the Netherlands](content/2026-10-24-reamping-guitar-tracks-home-di-studio-be-nl.md)**  
   How apartment guitarists in BE/NL can record clean DI performances quietly at home, then reamp them through real amps and mics in a professional studio for better tone, flexibility, and more efficient sessions.
 
