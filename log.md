@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-10-26
+
+**What I built**  
+- New article: `content/2026-10-26-finding-rehearsal-practice-rooms-guitarists-be-nl.md`  
+  Title: Finding Affordable Rehearsal Spaces for Guitarists in Belgium and the Netherlands  
+  ~1,250 words. Covers why apartment guitarists and bands need dedicated rooms, typical rates (€6–40/h), concrete networks and examples (Plug The Jack in BE cities from €10/h, Rock Supplies and others in NL), gear expectations, booking and cost-saving tips, and how regular louder practice improves lesson results and reduces wasted studio time. Includes a short checklist.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current 2026 rehearsal room rates and offerings across BE/NL (Plug The Jack network in Antwerp/Brussels/Ghent/Liège starting ~€10/h with full backline; Dutch solo rates from €6/h at places like Rock Supplies; band rooms commonly €15–30/h or block pricing; daytime discounts common).  
+- Typical equipment (drum kits, Katana/Tone Master-style guitar amps, PA, online self-service booking).  
+- Aggregators and local options (Sonus Places, Ampify, regional popcentra).  
+- Confirmed no prior dedicated rehearsal-space piece; this fills the gap between quiet home practice and professional studio work.
+
+**What I decided NOT to do and why**  
+- Avoided a pure city-by-city directory or exhaustive list of every venue — too thin and quickly outdated; focused on ranges, representative networks, and decision criteria instead.  
+- Did not expand into full acoustic-treatment DIY or legal noise-complaint processes; kept the focus on existing commercial rooms.  
+- Skipped deep gear comparisons or specific amp model recommendations inside the rooms; stayed practical and location-oriented.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Eighth content piece. Extends the apartment-to-studio practical chain with the missing louder-practice option that many guitarists actually need. Locally specific, rate-grounded, and directly useful for both lesson clients and future studio bookings. Ready for your morning review.
+
 ## 2026-10-17
 
 **What I built**  

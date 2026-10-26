@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Finding Affordable Rehearsal Spaces for Guitarists in Belgium and the Netherlands](content/2026-10-26-finding-rehearsal-practice-rooms-guitarists-be-nl.md)**  
+  Practical rates (€6–40/h), networks like Plug The Jack and Rock Supplies, booking tips, and how dedicated louder practice improves lessons, demos, and professional studio sessions for apartment guitarists in BE/NL.
+
 - **[Choosing a Guitar Teacher in Belgium and the Netherlands: A Practical Guide for Adult Learners and Busy Professionals](content/2026-10-25-choosing-guitar-teacher-adult-learners-be-nl.md)**  
   Practical rates (€25–60/h), online vs in-person trade-offs, trial-lesson questions, and local platforms so adult guitarists in BE/NL find the right teacher and progress efficiently.
 
