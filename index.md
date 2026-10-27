@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Using AI Tools for Mixing and Mastering: Practical Advice for Guitarists and Home Producers in Belgium and the Netherlands](content/2026-10-27-ai-tools-mixing-mastering-guitarists-home-producers-be-nl.md)**  
+  Practical 2026 guide to AI mixing/mastering services and assistants for apartment guitarists and home producers in BE/NL: realistic workflows, limitations, local studio rates (€50–100+/h), and when human engineers or treated rooms still add clear value.
+
 - **[Finding Affordable Rehearsal Spaces for Guitarists in Belgium and the Netherlands](content/2026-10-26-finding-rehearsal-practice-rooms-guitarists-be-nl.md)**  
   Practical rates (€6–40/h), networks like Plug The Jack and Rock Supplies, booking tips, and how dedicated louder practice improves lessons, demos, and professional studio sessions for apartment guitarists in BE/NL.
 

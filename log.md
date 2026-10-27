@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-10-27
+
+**What I built**  
+- New article: `content/2026-10-27-ai-tools-mixing-mastering-guitarists-home-producers-be-nl.md`  
+  Title: Using AI Tools for Mixing and Mastering: Practical Advice for Guitarists and Home Producers in Belgium and the Netherlands  
+  ~1,200 words. Covers realistic 2026 uses of AI services and DAW assistants for home guitar tracks and demos, practical apartment workflows, limitations, local studio rate context (€50–100+/h with engineer), hybrid approaches, and a checklist. References the new *Muziekproductie* 5th edition AI coverage.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current AI mixing/mastering tools and services available in 2026 (LANDR, RoEx, Cryo Mix, iZotope assistants, local options, stem tools; free previews vs paid downloads; typical costs low vs studio time).  
+- Local professional studio rates in BE/NL (engineered sessions commonly €50–100+/h or day packages; mixing often €200+ per song).  
+- Recent Dutch production literature (*Muziekproductie* 5e editie by Hans Weekhout, Oct 2026, with practical AI chapters) confirming industry adoption.  
+- Confirmed no prior dedicated AI or automated-mixing piece existed; this extends the home-recording/mixing/reamping cluster into the finishing stage without duplicating technique details.
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best AI tools 2026” ranked list or plugin roundup — too thin, rapidly outdated, and less client-actionable than workflow guidance and decision criteria.  
+- Did not expand into generative AI song creation, vocal cloning, or full automation claims; kept focus on assistive mixing/mastering for guitar-centric material.  
+- Skipped deep legal/copyright notes on AI-generated content or specific service endorsements; the piece stays practical and neutral.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Ninth content piece. Timely 2026 angle that complements existing apartment-to-studio practical chain. Balanced (tools help but do not replace skill or treated rooms), locally grounded with rate context, and non-duplicative. Ready for your morning review.
+
 ## 2026-10-26
 
 **What I built**  
