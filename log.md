@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-10-29
+
+**What I built**  
+- New article: `content/2026-10-29-guitar-setup-strings-studio-lessons-be-nl.md`  
+  Title: Guitar Setup and Fresh Strings: Preparing Your Instrument for Studio Sessions and Lessons in Belgium and the Netherlands  
+  ~1,150 words. Covers what a professional setup includes, 2026 local luthier rates in BE/NL (€35–80 typical, network €75), string-change timing for recording (24–48 h settle), DIY checks vs pro work, impact on lesson progress and studio efficiency, and a checklist.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current 2026 setup pricing across NL (Gitaar Afstellen Nederland €75 full setup, independents €35–80; fret leveling +€90–135) and BE (examples €40–75 standard, premium/PLEK higher; Floyd surcharges common).  
+- Best practices for string changes before studio sessions (fresh 24–48 h prior for brightness and stability; context-dependent for warmth).  
+- Standard setup sequence (relief → action → intonation) and simple home verification methods.  
+- Confirmed no prior dedicated deep-dive on instrument maintenance/setup existed (first article mentioned gear readiness only briefly); this fills the pre-session and pre-lesson preparation gap.
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best luthiers by city” directory or exhaustive price list — too thin, quickly outdated, and less useful than ranges plus decision criteria.  
+- Did not expand into full DIY truss-rod or fret-leveling tutorials (risk of damage); kept focus on when to hire a pro and what to check.  
+- Skipped specific string brand rankings or deep acoustic-treatment links; stayed practical and tied to lessons + studio outcomes.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Tenth content piece. Complements the existing studio-prep, home-recording, lessons, and reamping cluster by addressing the instrument itself. Locally rate-grounded, actionable for both lesson clients and studio bookings, non-duplicative. Ready for your morning review.
+
 ## 2026-10-27
 
 **What I built**  
