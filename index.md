@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Guitar Setup and Fresh Strings: Preparing Your Instrument for Studio Sessions and Lessons in Belgium and the Netherlands](content/2026-10-29-guitar-setup-strings-studio-lessons-be-nl.md)**  
+  Practical 2026 guide to setups, string timing, and local luthier costs (€35–80) so BE/NL guitarists improve playability for lessons and reduce retakes in studio or home recording.
+
 - **[Using AI Tools for Mixing and Mastering: Practical Advice for Guitarists and Home Producers in Belgium and the Netherlands](content/2026-10-27-ai-tools-mixing-mastering-guitarists-home-producers-be-nl.md)**  
   Practical 2026 guide to AI mixing/mastering services and assistants for apartment guitarists and home producers in BE/NL: realistic workflows, limitations, local studio rates (€50–100+/h), and when human engineers or treated rooms still add clear value.
 
