@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Choosing Your First Audio Interface for Home Guitar Recording in Belgium and the Netherlands: Practical 2026 Guide for Apartment Players](content/2026-10-30-choosing-first-audio-interface-guitar-recording-apartments-be-nl.md)**  
+  Practical 2026 guide to key features, local prices (€100–200 range, Scarlett 2i2 ~€159–189), Bax Music/Thomann options, gain staging, and how an entry-level interface supports quiet apartment recording, lessons, and efficient studio sessions for BE/NL guitarists.
+
 - **[Guitar Setup and Fresh Strings: Preparing Your Instrument for Studio Sessions and Lessons in Belgium and the Netherlands](content/2026-10-29-guitar-setup-strings-studio-lessons-be-nl.md)**  
   Practical 2026 guide to setups, string timing, and local luthier costs (€35–80) so BE/NL guitarists improve playability for lessons and reduce retakes in studio or home recording.
 

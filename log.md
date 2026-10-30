@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-10-30
+
+**What I built**  
+- New article: `content/2026-10-30-choosing-first-audio-interface-guitar-recording-apartments-be-nl.md`  
+  Title: Choosing Your First Audio Interface for Home Guitar Recording in Belgium and the Netherlands: Practical 2026 Guide for Apartment Players  
+  ~1,180 words. Covers why interfaces matter for quiet apartment DI/amp-sim work, key features (Hi-Z, preamps, direct monitoring, input count), realistic late-2026 local prices (Scarlett Solo ~€108–145, 2i2 ~€159–189 incl. VAT), buying options (Bax Music stores in NL/BE, Thomann with local VAT), simple gain-staging and monitoring setup, and links to better lessons and more efficient studio/reamp sessions. Includes checklist.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current 2026 street prices for popular entry-level interfaces in BE/NL (Focusrite Scarlett Solo 4th Gen and 2i2 4th Gen ranges from Bax Music, Music Store, comparison sites, and related listings; VAT-inclusive).  
+- Local retail landscape: Bax Music physical stores (Goes, Amsterdam, Apeldoorn, Rotterdam in NL; Antwerp in BE) and Thomann EU shipping with destination VAT.  
+- Core technical requirements for guitar DI recording (Hi-Z impedance, gain staging targets consistent with prior mixing article, direct monitoring).  
+- Confirmed no prior dedicated interface/gear-selection piece existed; this fills the hardware foundation gap under the existing home-recording, quiet-practice, reamping, and studio-prep cluster without duplicating technique details.
+
+**What I decided NOT to do and why**  
+- Avoided a pure ranked “best interfaces 2026” list or exhaustive model-by-model roundup — too thin, quickly outdated, and less client-actionable than decision criteria plus local price/shop context.  
+- Did not expand into full DAW tutorials, specific amp-sim recommendations, or acoustic treatment; kept focus on interface selection and basic quiet setup.  
+- Skipped deep driver troubleshooting or high-end interface comparisons; stayed entry-level and practical for apartment guitarists.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Eleventh content piece. Strengthens the apartment-to-studio practical chain by addressing the most common first hardware purchase that enables quiet DI work, practice, and better-prepared studio sessions. Locally rate- and shop-grounded, non-duplicative. Ready for your morning review.
+
 ## 2026-10-29
 
 **What I built**  
@@ -225,16 +249,16 @@ Sixth content piece. Strengthens the bridge between apartment home recording and
 - This log entry.
 
 **What I researched**  
-- Current 2026 guitar lesson rates in BE/NL across Superprof, independent teachers, private schools, and subsidized academies (private typically €30–55/h; platforms often lower or with free trials; academies more affordable for structured programs).  
-- Online vs in-person practical differences for adult learners (posture feedback, flexibility, accountability).  
-- Criteria that predict good matches (style specialization, experience teaching adults, trial lessons, between-session support).  
-- Confirmed no prior dedicated teacher-selection piece existed; previous logs had reserved a lessons-oriented angle.
+- Current 2026 guitar lesson rates in BE/NL across Superprof, independent teachers, private schools, and subsidized academies (private typically €30–55/h; platforms often lower or with free trials; academies can be more affordable).  
+- Online vs in-person practical differences for busy adults and apartment living.  
+- Common platforms and discovery methods used by adult learners in the region.  
+- Confirmed no prior dedicated teacher-selection piece; this addresses the lessons side of the business more directly while remaining useful for studio clients.
 
 **What I decided NOT to do and why**  
-- Avoided a pure platform comparison or “best online courses 2026” list — less useful for local client education than decision criteria and rates.  
-- Did not expand into detailed curricula by style or conservatory admission processes; kept the focus on practical selection for busy adults.  
-- Skipped deep legal/tax notes on private teaching or specific teacher recommendations; the piece stays general and actionable.  
+- Avoided a pure directory of specific teachers or exhaustive city-by-city lists — too thin and quickly outdated.  
+- Did not expand into full curriculum comparisons or advanced technique advice; kept focus on selection criteria and practical trade-offs.  
+- Skipped deep marketing or business-of-teaching angles; stayed client-facing and educational.  
 - No images or external asset links; pure markdown draft.
 
 **Notes for Cornel**  
-Seventh content piece. Completes the reserved lessons-oriented angle while staying tightly linked to the existing home-practice and studio-prep cluster. Practical, locally grounded, and non-duplicative. Ready for your morning review.
+Seventh content piece. Complements the recording-focused cluster with a clear lessons-oriented guide for adult learners. Rate-grounded and practical. Ready for your morning review.
