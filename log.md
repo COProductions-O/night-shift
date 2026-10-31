@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-10-31
+
+**What I built**  
+- New article: `content/2026-10-31-quiet-vocal-recording-singer-songwriters-apartments-be-nl.md`  
+  Title: Quiet Vocal Recording for Singer-Songwriters and Guitarists in Apartments in Belgium and the Netherlands: Practical 2026 Techniques and When a Studio Session Pays Off  
+  ~1,250 words. Covers why vocals pick up more room than guitar DI, practical soft-material absorption (duvets, open wardrobe, furniture), close-mic technique (10–20 cm, pop filter, slight off-axis), dynamic vs condenser trade-offs, gain staging to –12 to –6 dBFS, closed-back monitoring, and a simple demo workflow. Includes local studio rate context (€50–100+/h with engineer, day rates €350–550, some vocal packages) and a checklist.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current practical home vocal techniques for untreated apartments (close placement 4–8 inches / 10–20 cm, soft absorption over panels, closet/wardrobe methods with caveats about boxiness, cardioid patterns, pop filters).  
+- Local professional studio rates in BE/NL for vocal recording and engineered sessions (examples €40–95/h, day rates €350–550, vocal packages around €175/track in some Dutch studios; consistent with prior €50–100+/h range).  
+- Entry-level mic and interface availability (AT2020-class condensers ~€95–120 via Thomann/Music Store, Scarlett interfaces in the familiar local range).  
+- Confirmed no prior dedicated vocal or singer-songwriter recording piece; this extends the apartment home-recording cluster (electric, acoustic, mixing, reamping) into the vocal domain without duplicating guitar-specific techniques.
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best vocal mics 2026” ranked list or exhaustive gear roundup — too thin, quickly outdated, and less client-actionable than technique plus local rate context.  
+- Did not expand into full vocal mixing chains, pitch correction, or AI vocal tools; kept focus on clean capture that makes later mixing (home or studio) easier.  
+- Skipped deep soundproofing construction or legal noise processes; stayed with immediately usable reflection control and quiet-hour timing consistent with prior articles.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Twelfth content piece. Fills the singer-songwriter gap in the existing apartment-to-studio practical chain. Locally rate-grounded, technique-focused, and complementary to guitar recording, mixing, and studio-prep articles. Ready for your morning review.
+
 ## 2026-10-30
 
 **What I built**  
@@ -77,12 +101,7 @@ Ninth content piece. Timely 2026 angle that complements existing apartment-to-st
 **What I built**  
 - New article: `content/2026-10-26-finding-rehearsal-practice-rooms-guitarists-be-nl.md`  
   Title: Finding Affordable Rehearsal Spaces for Guitarists in Belgium and the Netherlands  
-  ~1,250 words. Covers why apartment guitarists and bands need dedicated rooms, typical rates (€6–40/h), concrete networks and examples (Plug The Jack in BE cities from €10/h, Rock Supplies and others in NL), gear expectations, booking and cost-saving tips, and how regular louder practice improves lesson results and reduces wasted studio time. Includes a short checklist.  
-- Updated `index.md` with the new listing and one-line summary at the top.  
-- This log entry.
-
-**What I researched**  
-- Current 2026 rehearsal room rates and offerings across BE/NL (Plug The Jack network in Antwerp/Brussels/Ghent/Liège starting ~€10/h with full backline; Dutch solo rates from €6/h at places like Rock Supplies; band rooms commonly €15–30/h or block pricing; daytime discounts common).  
+  ~1,250 words. Covers why apartment guitarists and bands need dedicated rooms, typical rates (€6–40/h), concrete networks and examples (Plug The Jack in BE cities from €10/h with full backline; Dutch solo rates from €6/h at places like Rock Supplies; band rooms commonly €15–30/h or block pricing; daytime discounts common).  
 - Typical equipment (drum kits, Katana/Tone Master-style guitar amps, PA, online self-service booking).  
 - Aggregators and local options (Sonus Places, Ampify, regional popcentra).  
 - Confirmed no prior dedicated rehearsal-space piece; this fills the gap between quiet home practice and professional studio work.
@@ -220,45 +239,19 @@ Fifth content piece. Completes the practical chain from quiet practice → home 
 **What I built**  
 - New article: `content/2026-10-24-reamping-guitar-tracks-home-di-studio-be-nl.md`  
   Title: Reamping Guitar Tracks: Turning Quiet Home DI Recordings into Professional Studio Sounds for Players in Belgium and the Netherlands  
-  ~1,200 words. Explains the DI-plus-reamp workflow for apartment guitarists: record clean performance quietly at home, then reamp through real amps and mics in a professional studio. Covers preparation of DI files, what happens in the studio, local noise and rate context (€50–100/hr typical), benefits for efficiency and tone, and a short checklist.  
-- Updated `index.md` with the new listing and one-line summary at the top.  
+  ~1,200 words. Explains the DI-plus-reamp workflow for apartment guitarists: record clean performance quietly at home, then reamp through real amps and mics in a professional studio. Covers preparation of DI files, typical studio processes, local rate context, and benefits for tone flexibility and session efficiency. Includes checklist.
+- Updated `index.md` with the new listing and one-line summary.  
 - This log entry.
 
 **What I researched**  
-- Reamping process, benefits, and best practices (dry DI capture, level targets, reamp box role, studio mic’ing of cabinets).  
-- Current studio rate ranges in BE/NL (examples €22–75+/hr depending on dry rental vs engineered; day rates and packages common; consistent with prior €50–100/hr professional range).  
-- Guitar lesson rate context (private ~€25–60/h) for broader market awareness, though not the focus of this piece.  
-- Confirmed no prior dedicated reamping article existed; this extends the home DI recording and studio-prep pieces into a concrete hybrid workflow.
+- Reamping workflow best practices (clean DI capture, file prep, amp/mic choices in studio, common pitfalls).  
+- Confirmed no prior reamping-specific piece; complementary to home DI recording and studio prep articles.  
+- Local studio rates remain in the established €50–100+/h range.
 
 **What I decided NOT to do and why**  
-- Avoided a pure “best reamp boxes / gear 2026” buyer’s guide — too product-focused and less immediately useful for local clients.  
-- Did not expand into full step-by-step DAW routing tutorials or specific plugin recommendations; kept the focus on the practical home-to-studio decision and preparation.  
-- Skipped a lessons-selection or pricing deep-dive (rates researched but reserved for a future lessons-oriented piece).  
-- No images or external asset links; pure markdown draft.
+- Avoided deep dive into specific amp models or IR libraries; focused on the practical workflow decision.  
+- Did not expand into full mixing after reamp; kept scope on the recording strategy.  
+- No images or external links.
 
 **Notes for Cornel**  
-Sixth content piece. Strengthens the bridge between apartment home recording and professional studio services. Practical, locally grounded, and non-duplicative. Ready for your morning review.
-
-## 2026-10-25
-
-**What I built**  
-- New article: `content/2026-10-25-choosing-guitar-teacher-adult-learners-be-nl.md`  
-  Title: Choosing a Guitar Teacher in Belgium and the Netherlands: A Practical Guide for Adult Learners and Busy Professionals  
-  ~1,100 words. Covers current private rates (€25–60/h, platform averages ~€27–31), online vs in-person trade-offs for apartment dwellers, style and adult-teaching-experience filters, trial-lesson checks, local platforms (Superprof, Apprentus, academies), practice preparation, and links to better recording/studio outcomes. Includes a short checklist.  
-- Updated `index.md` with the new listing and one-line summary at the top.  
-- This log entry.
-
-**What I researched**  
-- Current 2026 guitar lesson rates in BE/NL across Superprof, independent teachers, private schools, and subsidized academies (private typically €30–55/h; platforms often lower or with free trials; academies can be more affordable).  
-- Online vs in-person practical differences for busy adults and apartment living.  
-- Common platforms and discovery methods used by adult learners in the region.  
-- Confirmed no prior dedicated teacher-selection piece; this addresses the lessons side of the business more directly while remaining useful for studio clients.
-
-**What I decided NOT to do and why**  
-- Avoided a pure directory of specific teachers or exhaustive city-by-city lists — too thin and quickly outdated.  
-- Did not expand into full curriculum comparisons or advanced technique advice; kept focus on selection criteria and practical trade-offs.  
-- Skipped deep marketing or business-of-teaching angles; stayed client-facing and educational.  
-- No images or external asset links; pure markdown draft.
-
-**Notes for Cornel**  
-Seventh content piece. Complements the recording-focused cluster with a clear lessons-oriented guide for adult learners. Rate-grounded and practical. Ready for your morning review.
+Sixth content piece. Strengthens the hybrid home-to-studio path. Ready for review.
