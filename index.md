@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Quiet Vocal Recording for Singer-Songwriters and Guitarists in Apartments in Belgium and the Netherlands: Practical 2026 Techniques and When a Studio Session Pays Off](content/2026-10-31-quiet-vocal-recording-singer-songwriters-apartments-be-nl.md)**  
+  Practical 2026 guide to clean vocal demos in BE/NL apartments using soft absorption, close-mic technique, entry-level interfaces/mics, gain staging, and clear guidance on when treated studio vocal booths and local rates (€50–100+/h) deliver better final results.
+
 - **[Choosing Your First Audio Interface for Home Guitar Recording in Belgium and the Netherlands: Practical 2026 Guide for Apartment Players](content/2026-10-30-choosing-first-audio-interface-guitar-recording-apartments-be-nl.md)**  
   Practical 2026 guide to key features, local prices (€100–200 range, Scarlett 2i2 ~€159–189), Bax Music/Thomann options, gain staging, and how an entry-level interface supports quiet apartment recording, lessons, and efficient studio sessions for BE/NL guitarists.
 
