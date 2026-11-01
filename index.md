@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Double-Tracking Electric Guitars for Wider, Professional Demos: Quiet Apartment Techniques for Players in Belgium and the Netherlands](content/2026-11-01-double-tracking-electric-guitars-apartment-demos-be-nl.md)**  
+  Practical 2026 guide to double-tracking electric guitars quietly in BE/NL apartments using DI and amp simulations for fuller, wider demos that impress studios and collaborators, with local noise context and session-efficiency tips.
+
 - **[Quiet Vocal Recording for Singer-Songwriters and Guitarists in Apartments in Belgium and the Netherlands: Practical 2026 Techniques and When a Studio Session Pays Off](content/2026-10-31-quiet-vocal-recording-singer-songwriters-apartments-be-nl.md)**  
   Practical 2026 guide to clean vocal demos in BE/NL apartments using soft absorption, close-mic technique, entry-level interfaces/mics, gain staging, and clear guidance on when treated studio vocal booths and local rates (€50–100+/h) deliver better final results.
 

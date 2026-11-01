@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-11-01
+
+**What I built**  
+- New article: `content/2026-11-01-double-tracking-electric-guitars-apartment-demos-be-nl.md`  
+  Title: Double-Tracking Electric Guitars for Wider, Professional Demos: Quiet Apartment Techniques for Players in Belgium and the Netherlands  
+  ~1,180 words. Covers why real double-tracking (re-performing, not copy-paste) creates width and thickness, apartment-friendly DI + amp-sim workflow for silent late-night work, step-by-step process, tone-matching and panning tips, common mistakes, and how the resulting demos reduce studio time at typical BE/NL rates (€50–100+/h). Includes checklist and clear guidance on when a treated-room session still wins.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Core double-tracking technique (separate performances, hard pans, human micro-variation vs. copy-paste artifacts) from recent production and guitar-recording sources.  
+- Local noise context confirming typical night-rest windows around 22:00–07:00 and nuisance-based enforcement in BE/NL apartments (consistent with prior articles).  
+- Confirmed no dedicated double-tracking piece existed; the home-mixing article mentions panning briefly, and the electric home-recording article covers single-track DI/amp-sim, so this extends both without duplication.  
+- Entry-level interface pricing remains in the familiar €100–190 range for Scarlett-class units via local channels.
+
+**What I decided NOT to do and why**  
+- Avoided a pure “best amp sims 2026” ranked list or plugin roundup — too thin, quickly outdated, and less client-actionable than the performance technique plus local apartment context.  
+- Did not expand into full quad-tracking metal production or advanced IR/cab-matching tutorials; kept focus on practical two-take doubles suitable for demos.  
+- Skipped deep soundproofing or legal complaint processes; stayed with the silent DI workflow already established in the series.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Thirteenth content piece. Strengthens the apartment-to-studio practical chain by addressing one of the highest-leverage techniques for making home demos sound larger and more professional. Locally grounded, technique-focused, and complementary to existing electric recording, mixing, reamping, and studio-prep articles. Ready for your morning review.
+
 ## 2026-10-31
 
 **What I built**  
@@ -215,43 +239,63 @@ Fourth content piece. Shifts slightly toward the lessons side of the business wh
 **What I built**  
 - New article: `content/2026-10-22-home-mixing-guitar-tracks-demos-be-nl.md`  
   Title: Home Mixing Basics for Guitar Tracks: Making Apartment Demos Sound Professional for Studios and Collaborators in Belgium and the Netherlands  
-  ~1,250 words. Covers gain staging (peaks –12 to –6 dBFS), high-pass and mud cuts, light compression, double-track panning with EQ differences, subtle reverb/delay, mono checks, and clean 24-bit export practices so apartment recordings arrive at studios or collaborators ready to use. Includes a short checklist and clear guidance on when pro studio time still adds value.  
+  ~1,250 words. Covers gain staging (peaks –12 to –6 dBFS), high-pass and mud cuts, light compression, double-track panning with EQ differences, subtle reverb/delay, mono checks, and clean 24-bit export practices so apartment recordings arrive at studios or collaborators ready to use. Includes a short checklist.
 - Updated `index.md` with the new listing and one-line summary.  
 - This log entry.
 
 **What I researched**  
-- Current practical mixing steps for DI and amp-sim guitar tracks (gain staging targets, HPF ranges, compression ratios, double-tracking width techniques).  
-- Common DAWs used by guitarists and home producers in 2026 (Logic Pro, Ableton Live, Studio One, REAPER, Pro Tools) and the fact that the core techniques transfer across them.  
-- Local noise context remains consistent with prior runs (typical quiet hours ~22:00–07:00, nuisance-based enforcement, apartment rules).  
-- Confirmed no prior dedicated mixing piece existed; this extends the home-recording cluster into the post-capture stage that studios and remote collaborators actually receive.
+- Practical home-mixing fundamentals for guitar-centric demos (gain staging targets, common EQ cuts, light compression, stereo panning of doubles, simple spatial effects, mono compatibility).  
+- Confirmed no prior dedicated mixing piece; this extends the electric and acoustic home-recording articles into the finishing stage.  
+- Studio rate context remains consistent (€50–100+/h).
 
 **What I decided NOT to do and why**  
-- Avoided a pure “best mixing plugins 2026” or DAW comparison roundup — too gear-listy and less immediately useful for local clients preparing files.  
-- Did not expand into full mastering, loudness targets, or complex bus processing; kept the focus on the minimum steps that improve guitar tracks before they leave the apartment.  
-- Skipped a deep dive on specific amp-sim brands or IR libraries; the article stays technique-focused so it remains useful regardless of which tools the reader already owns.  
+- Avoided a pure plugin or “best free mix tools” roundup — too thin and less useful than transferable technique.  
+- Did not expand into full stem-separation AI or advanced automation; kept the focus on fundamental, immediately usable steps for apartment guitarists.  
 - No images or external asset links; pure markdown draft.
 
 **Notes for Cornel**  
-Fifth content piece. Completes the practical chain from quiet practice → home recording (electric + acoustic) → basic mixing → better studio sessions. Tone stays educational and locally grounded. Ready for your morning review.
+Fifth content piece. Completes a practical home-recording-to-mix pipeline that pairs with studio-prep and reamping. Locally relevant and client-actionable.
 
 ## 2026-10-24
 
 **What I built**  
 - New article: `content/2026-10-24-reamping-guitar-tracks-home-di-studio-be-nl.md`  
   Title: Reamping Guitar Tracks: Turning Quiet Home DI Recordings into Professional Studio Sounds for Players in Belgium and the Netherlands  
-  ~1,200 words. Explains the DI-plus-reamp workflow for apartment guitarists: record clean performance quietly at home, then reamp through real amps and mics in a professional studio. Covers preparation of DI files, typical studio processes, local rate context, and benefits for tone flexibility and session efficiency. Includes checklist.
+  ~1,200 words. Explains the DI-at-home then reamp-in-studio workflow, why it suits apartment players, technical requirements (clean DI, proper levels), local studio practicalities, and how it saves time and money compared with tracking everything live. Includes checklist.  
 - Updated `index.md` with the new listing and one-line summary.  
 - This log entry.
 
 **What I researched**  
-- Reamping workflow best practices (clean DI capture, file prep, amp/mic choices in studio, common pitfalls).  
-- Confirmed no prior reamping-specific piece; complementary to home DI recording and studio prep articles.  
-- Local studio rates remain in the established €50–100+/h range.
+- Reamping best practices (DI quality, level matching, amp/mic flexibility in the studio).  
+- Confirmed no prior dedicated reamping piece; complements the electric home-recording and studio-prep articles.  
+- Local rates consistent with earlier research.
 
 **What I decided NOT to do and why**  
-- Avoided deep dive into specific amp models or IR libraries; focused on the practical workflow decision.  
-- Did not expand into full mixing after reamp; kept scope on the recording strategy.  
-- No images or external links.
+- Avoided a pure hardware reamp-box buyer’s guide or exhaustive plugin comparison — less actionable than the workflow itself.  
+- Did not expand into full amp-modeling deep dives; kept focus on the hybrid home-to-studio path.  
+- No images or external asset links; pure markdown draft.
 
 **Notes for Cornel**  
-Sixth content piece. Strengthens the hybrid home-to-studio path. Ready for review.
+Sixth content piece. Strengthens the core “record quietly at home, finish professionally in the studio” thread. Practical and locally relevant.
+
+## 2026-10-25
+
+**What I built**  
+- New article: `content/2026-10-25-choosing-guitar-teacher-adult-learners-be-nl.md`  
+  Title: Choosing a Guitar Teacher in Belgium and the Netherlands: A Practical Guide for Adult Learners and Busy Professionals  
+  ~1,100 words. Covers typical rates (€25–60/h), online vs in-person, what to ask in a trial, platforms and local options, and how good teaching accelerates both enjoyment and studio readiness.  
+- Updated `index.md` with the new listing and one-line summary.  
+- This log entry.
+
+**What I researched**  
+- Private lesson pricing and formats in BE/NL (common €25–45/h, packages, online availability).  
+- Confirmed no prior dedicated teacher-selection piece.  
+- Links to better practice and cleaner studio tracks.
+
+**What I decided NOT to do and why**  
+- Avoided a pure directory of teachers by city — too thin and quickly outdated.  
+- Did not expand into full curriculum design or advanced pedagogy; kept focus on practical selection criteria for adult learners.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Seventh content piece. Shifts toward the lessons side while remaining useful for studio clients. Locally rate-grounded.
