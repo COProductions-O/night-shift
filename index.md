@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Using Amp Simulation Plugins Effectively for Quiet, Professional Guitar Demos in Apartments: Practical 2026 Guide for Players in Belgium and the Netherlands](content/2026-11-04-using-amp-sims-effectively-apartment-guitarists-be-nl.md)**  
+  Practical 2026 guide to gain staging, free NAM/TONE3000 options, signal chain and IR tips, common pitfalls, and how better apartment amp-sim demos reduce wasted studio time at typical BE/NL rates (€50–100+/h).
+
 - **[Maximizing Limited Studio Time for Guitar Tracks: Efficient Tracking Strategies for Guitarists and Bands in Belgium and the Netherlands](content/2026-11-03-maximizing-studio-time-guitar-tracking-be-nl.md)**  
   Practical 2026 guide to realistic time windows, pre-production, session workflow, and hybrid home+studio approaches so guitarists finish solid rhythm, double, and lead parts within typical BE/NL rates (€50–100+/h or day packages) without wasting money on retakes.
 

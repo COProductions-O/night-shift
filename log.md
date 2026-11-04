@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-11-04
+
+**What I built**  
+- New article: `content/2026-11-04-using-amp-sims-effectively-apartment-guitarists-be-nl.md`  
+  Title: Using Amp Simulation Plugins Effectively for Quiet, Professional Guitar Demos in Apartments: Practical 2026 Guide for Players in Belgium and the Netherlands  
+  ~1,280 words. Covers why amp sims fit BE/NL apartment constraints, free NAM/TONE3000 (700k+ library) vs paid suites, practical gain staging from interface to plugin, signal-chain and IR tips, common pitfalls, how better demos protect studio time at local rates (€50–100+/h), and a checklist. Extends the home electric recording and double-tracking pieces with focused technique rather than gear lists.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current state of free neural capture tools (NAM and the September 2026 TONE3000 plugin with 700,000+ captures) versus polished paid suites (Neural DSP Archetypes, AmpliTube/TONEX).  
+- Gain-staging practices for amp sims (interface peaks roughly –12 to –6 dBFS, plugin input trim for dynamic response).  
+- Local noise context confirming typical night-rest windows around 22:00–07:00 and nuisance-based enforcement in BE/NL municipalities.  
+- Confirmed no dedicated amp-sim technique or workflow article existed; prior pieces cover DI recording, reamping, double-tracking, and mixing but not the practical details of feeding and finishing virtual amps.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best amp sims 2026” product roundup — thin, quickly outdated, and less useful than workflow and gain-staging advice grounded in local apartment constraints.  
+- Did not expand into hardware modeler comparisons or full IR-creation tutorials; kept the focus on software plugins usable with the entry-level interfaces already discussed in the series.  
+- Skipped deep legal analysis of neighbour-noise complaints; stayed with the established quiet-hours context.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Fifteenth content piece. Strengthens the apartment-to-studio practical chain by addressing one of the most common tools guitarists already use (or should use) for silent tracking. Technique-focused, locally grounded, and complementary to existing electric recording, double-tracking, reamping, and studio-efficiency articles. Ready for your morning review.
+
 ## 2026-11-03
 
 **What I built**  
