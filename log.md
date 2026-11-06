@@ -1,5 +1,28 @@
 # Night Shift Log
 
+## 2026-11-06
+
+**What I built**  
+- New article: `content/2026-11-06-mastering-click-tracks-guitarists-be-nl.md`  
+  Title: Mastering Click Tracks for Guitarists: Building Reliable Timing for Apartment Demos and Efficient Studio Sessions in Belgium and the Netherlands  
+  ~1,180 words. Covers why click tracks fit BE/NL apartment constraints and protect studio time at local rates (€50–100+/h, day packages €350–600), practical setup (subdivision, level, count-in, latency), active practice methods, feel versus rigid time, home-to-studio workflow, common pitfalls, and a checklist. Complements existing studio-efficiency, double-tracking, and quiet-practice pieces without overlapping.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current local studio rates confirming the established €50–100+/h with engineer range and day packages roughly €350–600 across Dutch and Belgian examples.  
+- Click-track technique sources on subdivision choices, headphone mix levels, pocket placement, and the distinction between tempo accuracy and feel.  
+- Confirmed no dedicated click-track or timing-practice article existed in the repo; prior pieces mention clicks in passing (studio prep, double-tracking) but do not cover setup or practice methods.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best metronome apps 2026” list — thin and quickly outdated; focused on technique usable with any DAW or free app.  
+- Did not expand into full tempo-map creation tutorials or advanced groove quantization; kept the focus on practical click use for guitarists preparing demos and sessions.  
+- Skipped deep legal analysis of neighbour-noise rules; stayed with the established quiet-hours context.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Sixteenth content piece. Strengthens the apartment-to-studio practical chain by addressing a foundational skill that directly affects both demo quality and studio-hour efficiency. Technique-focused, locally grounded, and complementary to existing quiet-practice, double-tracking, reamping, and studio-time articles. Ready for your morning review.
+
 ## 2026-11-04
 
 **What I built**  

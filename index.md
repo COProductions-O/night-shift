@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Mastering Click Tracks for Guitarists: Building Reliable Timing for Apartment Demos and Efficient Studio Sessions in Belgium and the Netherlands](content/2026-11-06-mastering-click-tracks-guitarists-be-nl.md)**  
+  Practical 2026 guide to setting up and practicing with click tracks so BE/NL apartment guitarists create tighter demos and arrive at studios (typical rates €50–100+/h) already locked in, reducing retakes.
+
 - **[Using Amp Simulation Plugins Effectively for Quiet, Professional Guitar Demos in Apartments: Practical 2026 Guide for Players in Belgium and the Netherlands](content/2026-11-04-using-amp-sims-effectively-apartment-guitarists-be-nl.md)**  
   Practical 2026 guide to gain staging, free NAM/TONE3000 options, signal chain and IR tips, common pitfalls, and how better apartment amp-sim demos reduce wasted studio time at typical BE/NL rates (€50–100+/h).
 
