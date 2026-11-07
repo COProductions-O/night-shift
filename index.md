@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Humidity Control for Acoustic Guitars in Belgium and the Netherlands: Keeping Your Instrument Stable for Lessons and Studio Sessions](content/2026-11-07-humidity-control-acoustic-guitars-be-nl.md)**  
+  Practical 2026 guide to seasonal indoor RH swings in BE/NL apartments, symptoms of dry and wet conditions, affordable humidifiers (€9–15 at Bax), storage habits, and how stable instruments improve lesson progress and protect studio time at local rates.
+
 - **[Mastering Click Tracks for Guitarists: Building Reliable Timing for Apartment Demos and Efficient Studio Sessions in Belgium and the Netherlands](content/2026-11-06-mastering-click-tracks-guitarists-be-nl.md)**  
   Practical 2026 guide to setting up and practicing with click tracks so BE/NL apartment guitarists create tighter demos and arrive at studios (typical rates €50–100+/h) already locked in, reducing retakes.
 
