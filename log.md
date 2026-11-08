@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-11-08
+
+**What I built**  
+- New article: `content/2026-11-08-studio-headphones-apartment-guitarists-be-nl.md`  
+  Title: Studio Headphones for Apartment Guitarists in Belgium and the Netherlands: Practical 2026 Guide to Quiet Practice, Tracking, and Rough Mixes  
+  ~1,120 words. Covers closed-back vs open-back, impedance and comfort for interfaces, local pricing context at Bax Music/Thomann (€50–150 range for solid models), practical workflow for practice/tracking/rough mixes, volume discipline, and how better monitoring reduces retakes at typical BE/NL studio rates (€50–100+/h). Complements existing quiet-practice, amp-sim, double-tracking, home-mixing, and studio-efficiency pieces without overlapping.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Closed-back vs open-back guidance for apartment isolation and tracking (spill prevention with mics).  
+- Common studio headphone recommendations and impedance ranges (32–80 ohm preferred for entry-level interfaces).  
+- Current local availability and price context via Bax Music and Thomann listings for closed-back models (Audio-Technica M-series, beyerdynamic DT 770 Pro, Sennheiser HD 280 Pro, Sony MDR-7506, AKG options).  
+- Confirmed no dedicated monitoring/headphones article existed; prior pieces mention headphone use in passing but do not cover selection or workflow.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best headphones 2026” product roundup — thin, quickly outdated, and less useful than practical selection criteria and workflow grounded in apartment constraints.  
+- Did not expand into full room acoustic treatment or detailed monitor placement guides; kept focus on headphones as the realistic primary tool for most BE/NL apartment players.  
+- Skipped deep legal analysis of neighbour-noise rules; stayed with the established quiet-hours context.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Eighteenth content piece. Strengthens the apartment-to-studio practical chain by addressing the monitoring tool almost every home player already uses (or should use). Technique- and selection-focused, locally grounded with Bax/Thomann context, and complementary to existing quiet-practice, amp-sim, reamping, double-tracking, and studio-time articles. Ready for your morning review.
+
 ## 2026-11-07
 
 **What I built**  

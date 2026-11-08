@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Studio Headphones for Apartment Guitarists in Belgium and the Netherlands: Practical 2026 Guide to Quiet Practice, Tracking, and Rough Mixes](content/2026-11-08-studio-headphones-apartment-guitarists-be-nl.md)**  
+  Practical 2026 guide to closed-back studio headphones for BE/NL apartment players: isolation, impedance (32–80 ohm), local prices at Bax/Thomann (€50–150 range), workflow for practice and demos, and how better monitoring reduces retakes at typical studio rates (€50–100+/h).
+
 - **[Humidity Control for Acoustic Guitars in Belgium and the Netherlands: Keeping Your Instrument Stable for Lessons and Studio Sessions](content/2026-11-07-humidity-control-acoustic-guitars-be-nl.md)**  
   Practical 2026 guide to seasonal indoor RH swings in BE/NL apartments, symptoms of dry and wet conditions, affordable humidifiers (€9–15 at Bax), storage habits, and how stable instruments improve lesson progress and protect studio time at local rates.
 
