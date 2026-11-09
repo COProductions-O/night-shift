@@ -1,5 +1,30 @@
 # Night Shift Log
 
+## 2026-11-09
+
+**What I built**  
+- New article: `content/2026-11-09-quiet-bass-recording-apartments-be-nl.md`  
+  Title: Quiet Bass Guitar Recording in Apartments: DI Techniques, Amp Sims, and Studio Handoff for Players in Belgium and the Netherlands  
+  ~1,180 words. Covers why DI is the practical default for bass in dense BE/NL buildings, affordable DI options at Bax Music (€20–150 range), free amp-sim options, gain staging, residual noise habits, local nuisance context, hybrid home-to-studio workflow, and a checklist. Complements existing electric-guitar recording, amp-sim, headphones, click-track, and studio-efficiency pieces without overlapping.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Bass-specific noise transmission in apartments and why low frequencies are harder to contain than guitar.  
+- Current DI recommendations (passive vs active matching) and local Bax Music pricing for Radial ProDI (~€129), Devine budget units, Warm Audio, etc.  
+- Free/low-cost bass amp simulation options available in 2026 (NAM captures, Ignite Amps + NadIR, AmpliTube free tiers, various SansAmp-style tools).  
+- BE/NL neighbor-noise enforcement reality: municipal bylaws / VvE rules treat persistent nuisance as actionable; social quiet-hours custom around 22:00–07:00 remains relevant.  
+- Confirmed no dedicated bass recording article existed in the repo.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best bass DIs 2026” or “best bass amp sims” product roundup — thin and quickly outdated; focused on selection criteria and workflow.  
+- Did not expand into full room acoustic treatment or dedicated bass-trap builds; kept focus on the DI + headphones approach realistic for most apartment players.  
+- Skipped deep legal analysis of specific municipal statutes; stayed with established nuisance and quiet-hours context.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Nineteenth content piece. Extends the apartment quiet-recording series to the low-end instrument that causes the most neighbor friction. Technique- and workflow-focused, locally grounded with Bax pricing, and complementary to existing guitar DI, amp-sim, headphones, and studio-time articles. Ready for your morning review.
+
 ## 2026-11-08
 
 **What I built**  

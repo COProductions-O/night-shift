@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Quiet Bass Guitar Recording in Apartments: DI Techniques, Amp Sims, and Studio Handoff for Players in Belgium and the Netherlands](content/2026-11-09-quiet-bass-recording-apartments-be-nl.md)**  
+  Practical 2026 guide for BE/NL apartment bassists on silent DI recording, affordable DIs at Bax Music (€20–150), free amp sims, neighbor-noise etiquette, and how clean home tracks save studio time at local rates (€50–100+/h).
+
 - **[Studio Headphones for Apartment Guitarists in Belgium and the Netherlands: Practical 2026 Guide to Quiet Practice, Tracking, and Rough Mixes](content/2026-11-08-studio-headphones-apartment-guitarists-be-nl.md)**  
   Practical 2026 guide to closed-back studio headphones for BE/NL apartment players: isolation, impedance (32–80 ohm), local prices at Bax/Thomann (€50–150 range), workflow for practice and demos, and how better monitoring reduces retakes at typical studio rates (€50–100+/h).
 
