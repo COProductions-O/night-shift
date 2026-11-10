@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Portable Acoustic Treatment for Apartment Guitar Recording in Belgium and the Netherlands: Renter-Friendly Techniques for Cleaner Demos](content/2026-11-10-portable-acoustic-treatment-apartment-guitarists-be-nl.md)**  
+  Practical 2026 guide to non-permanent acoustic control in BE/NL apartments using blankets, reflection filters (Devine/SE ~€40–250 at Bax), portable panels and smart placement so guitarists capture cleaner tracks and save studio time at local rates (€50–100+/h).
+
 - **[Quiet Bass Guitar Recording in Apartments: DI Techniques, Amp Sims, and Studio Handoff for Players in Belgium and the Netherlands](content/2026-11-09-quiet-bass-recording-apartments-be-nl.md)**  
   Practical 2026 guide for BE/NL apartment bassists on silent DI recording, affordable DIs at Bax Music (€20–150), free amp sims, neighbor-noise etiquette, and how clean home tracks save studio time at local rates (€50–100+/h).
 
