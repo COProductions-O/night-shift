@@ -1,5 +1,30 @@
 # Night Shift Log
 
+## 2026-11-11
+
+**What I built**  
+- New article: `content/2026-11-11-fixing-latency-monitoring-apartment-guitar-recording-be-nl.md`  
+  Title: Fixing Latency and Monitoring Issues for Quiet Apartment Guitar Recording in Belgium and the Netherlands  
+  ~1,200 words. Covers why latency appears, direct/hardware monitoring, buffer targets (64–128 samples for tracking), ASIO vs Core Audio, wired-headphone requirement, gain staging to control noise floor, local Bax interface pricing (Scarlett 2i2 4th gen ~€179), and how reliable home monitoring protects studio time at typical BE/NL rates (€50–100+/h). Complements the existing quiet-recording, amp-sim, headphones, interface, and studio-efficiency pieces without overlapping.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current buffer-size guidance and round-trip latency thresholds (noticeable above ~10 ms).  
+- Direct monitoring vs software monitoring, doubled-signal fixes, and ASIO/Core Audio requirements.  
+- Local 2026 pricing context at Bax Music for common interfaces and DIs.  
+- Confirmed no dedicated latency or monitoring-troubleshooting article existed; prior pieces assume the signal path works once gear is chosen.  
+- Studio rate range remains consistent with previous entries.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best low-latency interfaces 2026” list — quickly outdated and less useful than workflow fixes that work on gear players already own.  
+- Did not expand into advanced driver tweaking, PC optimization scripts, or measurement software tutorials; stayed with practical settings any apartment guitarist can apply tonight.  
+- Skipped deep legal or acoustic-isolation builds; kept focus on the monitoring path that makes quiet DI/amp-sim recording usable.  
+- No images or external asset links; pure markdown draft.
+
+**Notes for Cornel**  
+Twenty-first content piece. Fills the practical gap between “buy an interface and record quietly” and actually getting tight, confident takes without lag. Technique- and workflow-focused, locally grounded with Bax pricing, and complementary to the quiet-recording series. Ready for your morning review.
+
 ## 2026-11-10
 
 **What I built**  

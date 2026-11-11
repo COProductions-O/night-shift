@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Fixing Latency and Monitoring Issues for Quiet Apartment Guitar Recording in Belgium and the Netherlands](content/2026-11-11-fixing-latency-monitoring-apartment-guitar-recording-be-nl.md)**  
+  Practical 2026 guide to eliminating latency, doubled monitoring, and related noise in BE/NL apartment guitar setups using direct monitoring, buffer settings (64–128 samples), ASIO/Core Audio, and wired headphones so demos stay tight and studio time at local rates (€50–100+/h) is not wasted on retakes.
+
 - **[Portable Acoustic Treatment for Apartment Guitar Recording in Belgium and the Netherlands: Renter-Friendly Techniques for Cleaner Demos](content/2026-11-10-portable-acoustic-treatment-apartment-guitarists-be-nl.md)**  
   Practical 2026 guide to non-permanent acoustic control in BE/NL apartments using blankets, reflection filters (Devine/SE ~€40–250 at Bax), portable panels and smart placement so guitarists capture cleaner tracks and save studio time at local rates (€50–100+/h).
 
