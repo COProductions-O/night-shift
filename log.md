@@ -1,5 +1,30 @@
 # Night Shift Log
 
+## 2026-11-12
+
+**What I built**  
+- New article: `content/2026-11-12-delivering-clean-guitar-di-tracks-studio-engineer-be-nl.md`  
+  Title: Delivering Clean Guitar DI and Amp-Sim Tracks to a Studio or Mixing Engineer in Belgium and the Netherlands: File Formats, Naming, and Pre-Production Checklist  
+  ~1,350 words. Covers WAV 24-bit exports at matching sample rates (44.1/48 kHz), consistent start points (bar 1 / 0:00), mono vs stereo, headroom targets (−6 to −12 dBFS), always including the clean DI alongside processed versions, clear naming conventions, rough mix + references + tempo notes, 2026 transfer options (WeTransfer free limits, Google Drive), common pitfalls, and a checklist. Ties directly to studio rates (€50–100+/h) and complements reamping, home mixing, maximizing studio time, and quiet DI recording pieces without overlap.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current professional stem/export best practices (24-bit WAV, match sample rate, no master processing, start-aligned files, include DIs for guitars).  
+- 2026 WeTransfer free-tier limits (3 GB / 10 transfers per 30 days, 3-day expiry) and Google Drive free storage context.  
+- Confirmed local BE/NL studio rate range remains €50–100+/h from prior research and recent public listings.  
+- Verified no existing dedicated article on file delivery standards or engineer handoff checklists.  
+- Bax Music pricing context retained only where already established; this piece is workflow-focused.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best cloud storage for musicians 2026” comparison — quickly outdated and less useful than the core export rules that work with any transfer method.  
+- Did not expand into full DAW-specific click-by-click tutorials for every major program; stayed with universal settings any guitarist can apply.  
+- Skipped deep sample-rate/bit-depth theory or high-resolution (96 kHz+) debates; focused on practical defaults that studios accept.  
+- No product roundups or images; pure markdown draft.
+
+**Notes for Cornel**  
+Twenty-second content piece. Fills the practical gap between “record clean DIs at home” and “engineer can actually use them immediately.” Workflow- and checklist-focused, locally grounded with rate context, and complementary to the reamping and studio-efficiency series. Ready for your morning review.
+
 ## 2026-11-11
 
 **What I built**  
