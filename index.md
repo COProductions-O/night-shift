@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Delivering Clean Guitar DI and Amp-Sim Tracks to a Studio or Mixing Engineer in Belgium and the Netherlands: File Formats, Naming, and Pre-Production Checklist](content/2026-11-12-delivering-clean-guitar-di-tracks-studio-engineer-be-nl.md)**  
+  Practical 2026 guide for BE/NL apartment guitarists on exporting clean DI and amp-sim tracks (WAV 24-bit at matching sample rates, consistent start points, clear naming, headroom, always include DI) so studios spend time on music rather than cleanup at typical local rates (€50–100+/h).
+
 - **[Fixing Latency and Monitoring Issues for Quiet Apartment Guitar Recording in Belgium and the Netherlands](content/2026-11-11-fixing-latency-monitoring-apartment-guitar-recording-be-nl.md)**  
   Practical 2026 guide to eliminating latency, doubled monitoring, and related noise in BE/NL apartment guitar setups using direct monitoring, buffer settings (64–128 samples), ASIO/Core Audio, and wired headphones so demos stay tight and studio time at local rates (€50–100+/h) is not wasted on retakes.
 
