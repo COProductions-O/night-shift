@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Organizing and Backing Up Music Project Files for Apartment Guitarists and Home Producers in Belgium and the Netherlands](content/2026-11-13-organizing-backing-up-music-project-files-guitarists-be-nl.md)**  
+  Practical 2026 guide to folder structures, naming conventions, and the 3-2-1 backup rule so BE/NL apartment guitarists protect demos, deliver clean files to studios faster, and avoid losing work at typical local rates of €50–100+/h.
+
 - **[Delivering Clean Guitar DI and Amp-Sim Tracks to a Studio or Mixing Engineer in Belgium and the Netherlands: File Formats, Naming, and Pre-Production Checklist](content/2026-11-12-delivering-clean-guitar-di-tracks-studio-engineer-be-nl.md)**  
   Practical 2026 guide for BE/NL apartment guitarists on exporting clean DI and amp-sim tracks (WAV 24-bit at matching sample rates, consistent start points, clear naming, headroom, always include DI) so studios spend time on music rather than cleanup at typical local rates (€50–100+/h).
 

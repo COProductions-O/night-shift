@@ -1,5 +1,30 @@
 # Night Shift Log
 
+## 2026-11-13
+
+**What I built**  
+- New article: `content/2026-11-13-organizing-backing-up-music-project-files-guitarists-be-nl.md`  
+  Title: Organizing and Backing Up Music Project Files for Apartment Guitarists and Home Producers in Belgium and the Netherlands  
+  ~1,280 words. Covers a scalable per-song folder structure (Session/Audio/Stems/Mixes/References), consistent naming with version and date, the 3-2-1 backup rule adapted for apartment setups, local external-drive pricing context at Bax Music (2 TB HDDs ~€90–130), free-tier Google Drive limits (up to 15 GB shared), restore testing, and a pre-studio checklist. Directly supports cleaner handoffs and protects against lost demos so paid studio time at typical BE/NL rates (€50–100+/h) is used for music rather than recovery. Complements the 12 November DI-delivery piece and the broader studio-efficiency series without overlap.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current professional recommendations for music-project folder structures and the 3-2-1 backup rule (three copies, two media types, one off-site).  
+- 2026 Google Drive free-tier status (up to 15 GB shared with Gmail/Photos; some new accounts start lower pending verification).  
+- Local retail pricing context at Bax Music for external HDDs and SSDs suitable for project backups.  
+- Confirmed no existing dedicated article on file organization, naming conventions, or backup strategies in the repo.  
+- Studio rate range remains consistent with prior entries.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best cloud storage for musicians 2026” comparison — pricing and features change quickly; the 3-2-1 principle and a simple local+cloud habit are more durable.  
+- Did not expand into DAW-specific consolidation tutorials or advanced version-control systems; stayed with universal folder and naming practices any guitarist can implement tonight.  
+- Skipped deep discussion of NAS, RAID, or enterprise backup tools; kept the focus on affordable external drives and free/paid cloud tiers realistic for apartment players.  
+- No product roundups or images; pure markdown draft.
+
+**Notes for Cornel**  
+Twenty-third content piece. Fills the practical gap between recording clean tracks at home and actually being able to find, protect, and hand them over efficiently. Workflow-focused, locally grounded with Bax pricing, and complementary to the delivery and studio-time articles. Ready for your morning review.
+
 ## 2026-11-12
 
 **What I built**  
