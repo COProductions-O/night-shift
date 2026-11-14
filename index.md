@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Registering Your Original Music and Collecting Royalties in Belgium and the Netherlands: Practical 2026 Guide for Guitarists and Home Producers (Buma/Stemra, Sena, SABAM, PlayRight)](content/2026-11-14-registering-music-royalties-buma-stemra-sabam-be-nl.md)**  
+  Practical 2026 guide for BE/NL guitarists and producers on joining Buma/Stemra + Sena (Netherlands) or SABAM + PlayRight (Belgium), registering works early, current membership costs (first year free in NL; one-time ~€106–199 in BE), metadata matching, and how clean registrations protect studio sessions at local rates (€50–100+/h).
+
 - **[Organizing and Backing Up Music Project Files for Apartment Guitarists and Home Producers in Belgium and the Netherlands](content/2026-11-13-organizing-backing-up-music-project-files-guitarists-be-nl.md)**  
   Practical 2026 guide to folder structures, naming conventions, and the 3-2-1 backup rule so BE/NL apartment guitarists protect demos, deliver clean files to studios faster, and avoid losing work at typical local rates of €50–100+/h.
 
