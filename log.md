@@ -1,5 +1,30 @@
 # Night Shift Log
 
+## 2026-11-16
+
+**What I built**  
+- New article: `content/2026-11-16-practical-ear-training-guitarists-apartments-be-nl.md`  
+  Title: Practical Ear Training for Guitarists in Apartments: Quiet Daily Routines to Improve Pitch Accuracy, Lessons, and Studio Sessions in Belgium and the Netherlands  
+  ~1,050 words. Covers why pitch accuracy is high-leverage for apartment players, quiet methods (pitch matching, interval recognition starting with 2nds/3rds/4ths/5ths, chord quality, simple melody transcription, functional hearing in a key), a concrete 10-minute daily routine, free 2026 tools (Functional Ear Trainer, Perfect Ear, Complete Ear Trainer, musictheory.net), local Bax Music options (theory books, Perfect Pitch Method ~€46, Earmaster), and direct links to faster lessons and fewer pitch-related retakes at typical BE/NL studio rates (€50–100+/h). Complements the previous rhythm/timing piece without overlap.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current free/freemium ear training apps in 2026: Functional Ear Trainer (getfet.app, free core, ~$20 Plus), Perfect Ear (free + low-cost packs), Complete Ear Trainer (free first chapters, ~$6–7 full unlock), musictheory.net.  
+- Practical quiet methods and short daily routines from recent guitar ear-training guides (pitch matching + singing, interval work, chord quality, short transcription).  
+- Local retail context at Bax Music for theory books and software.  
+- Confirmed no existing dedicated article on ear training, pitch matching, interval work, or functional hearing in the repo.  
+- Studio rate range remains consistent with prior entries (€50–100+/h; recent examples €60–80).
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best ear training app 2026” roundup—apps and pricing shift; the core drills plus a few reliable free starting points are more durable.  
+- Did not go deep into absolute pitch training or advanced dictation; kept the scope practical and relative-pitch focused for adult apartment players.  
+- Skipped heavy music-theory reading requirements; the exercises work with humming and simple listening.  
+- No product images or affiliate-style lists; pure practical markdown.
+
+**Notes for Cornel**  
+Twenty-sixth content piece. Fills the practical gap between rhythm/timing and actual pitch accuracy—both reduce wasted studio time. Quiet, apartment-native, and locally grounded with free tools plus Bax options. Ready for your morning review.
+
 ## 2026-11-15
 
 **What I built**  

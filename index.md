@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Practical Ear Training for Guitarists in Apartments: Quiet Daily Routines to Improve Pitch Accuracy, Lessons, and Studio Sessions in Belgium and the Netherlands](content/2026-11-16-practical-ear-training-guitarists-apartments-be-nl.md)**  
+  Practical 2026 guide to quiet 10-minute ear training routines (pitch matching, intervals, chord quality, simple transcription), free apps (Functional Ear Trainer, Perfect Ear, Complete Ear Trainer), and how better pitch accuracy speeds lessons and reduces retakes at typical BE/NL studio rates (€50–100+/h).
+
 - **[Building Solid Rhythm and Timing for Guitarists in Belgium and the Netherlands: Practical 2026 Exercises, Tools, and Studio Benefits](content/2026-11-15-building-solid-rhythm-timing-guitarists-be-nl.md)**  
   Practical 2026 guide for BE/NL apartment guitarists on building reliable internal rhythm with muted-string drills, free metronome apps, local hardware (Boss DB-30 ~€35, Soundbrenner Pulse ~€113 at Bax), the Haarlem workshop on 28 Nov (€50), and how tighter timing reduces retakes at typical studio rates (€50–100+/h).
 
