@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Finding and Preparing for Open Mic Nights and Acoustic Jam Sessions for Guitarists in Belgium and the Netherlands: Practical 2026 Guide](content/2026-11-17-open-mic-jam-sessions-guitarists-be-nl.md)**  
+  Practical 2026 guide to locating supportive open mics and jam sessions in BE/NL cities (Amsterdam, Antwerp, Enschede, Uitgeest and others), preparing a short reliable set at home, managing nerves, and how live performance practice improves lesson progress and studio confidence at typical local rates of €50–100+/h.
+
 - **[Practical Ear Training for Guitarists in Apartments: Quiet Daily Routines to Improve Pitch Accuracy, Lessons, and Studio Sessions in Belgium and the Netherlands](content/2026-11-16-practical-ear-training-guitarists-apartments-be-nl.md)**  
   Practical 2026 guide to quiet 10-minute ear training routines (pitch matching, intervals, chord quality, simple transcription), free apps (Functional Ear Trainer, Perfect Ear, Complete Ear Trainer), and how better pitch accuracy speeds lessons and reduces retakes at typical BE/NL studio rates (€50–100+/h).
 
