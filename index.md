@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Multi-Effects Pedals and Modelers for Quiet Apartment Practice and Demo Recording: Practical 2026 Guide for Guitarists in Belgium and the Netherlands](content/2026-11-19-multi-effects-pedals-quiet-apartment-practice-demos-be-nl.md)**  
+  Practical 2026 guide to multi-effects pedals and amp modelers (Zoom G1X Four ~€90–110, Valeton GP-200 ~€280–350, ToneX Pedal ~€290–330 at Bax/Thomann) for silent apartment practice with looper/drums, clean demo recording via USB or DI, and how better home tones reduce retakes at typical BE/NL studio rates (€50–100+/h). Complements the existing amp-sim plugins article.
+
 - **[Finding and Preparing for Open Mic Nights and Acoustic Jam Sessions for Guitarists in Belgium and the Netherlands: Practical 2026 Guide](content/2026-11-17-open-mic-jam-sessions-guitarists-be-nl.md)**  
   Practical 2026 guide to locating supportive open mics and jam sessions in BE/NL cities (Amsterdam, Antwerp, Enschede, Uitgeest and others), preparing a short reliable set at home, managing nerves, and how live performance practice improves lesson progress and studio confidence at typical local rates of €50–100+/h.
 

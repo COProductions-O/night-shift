@@ -1,5 +1,30 @@
 # Night Shift Log
 
+## 2026-11-19
+
+**What I built**  
+- New article: `content/2026-11-19-multi-effects-pedals-quiet-apartment-practice-demos-be-nl.md`  
+  Title: Multi-Effects Pedals and Modelers for Quiet Apartment Practice and Demo Recording: Practical 2026 Guide for Guitarists in Belgium and the Netherlands  
+  ~1,200 words. Covers why multi-effects/modelers beat small practice amps in thin-walled BE/NL apartments, key features (headphone out + cab sim, looper/drums, USB audio, IR loading), local 2026 pricing at Bax Music/Thomann (Zoom G1X Four ~€90–110, Valeton GP-200 ~€280–350, ToneX Pedal ~€290–330), quiet practice and demo workflows, common pitfalls, and direct links to fewer retakes at typical studio rates (€50–100+/h). Complements the existing amp-sim plugins article without overlap.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current multi-effects and modeler options suited to silent practice: Zoom G1X Four (battery, looper, drums), Valeton GP-200 series (IR, USB, expression), IK Multimedia ToneX Pedal (amp captures), plus budget desktop units.  
+- Late-2026 street pricing and availability at Bax Music (NL/BE) and Thomann: Zoom ~€95–110, Valeton GP-200 ~€283+, ToneX Pedal ~€290–330 range.  
+- Practical quiet-practice and recording workflows from recent apartment guitar guides (headphone monitoring, looper/drums for timing, parallel DI).  
+- Confirmed no existing dedicated article on multi-effects pedals, hardware modelers, or standalone silent practice units in the repo (amp-sim plugins piece is software-focused).  
+- Studio rate range remains consistent with prior entries (€50–100+/h).
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best multi-effects 2026” roundup that would date quickly; focused on durable criteria plus a few reliable local price points.  
+- Did not dive into high-end floor units (Helix, Quad Cortex) or full pedalboard builds; kept the scope practical and apartment-first for most adult players.  
+- Skipped deep IR-loading tutorials or specific preset recommendations that would require constant updates.  
+- No product images or affiliate-style lists; pure practical markdown.
+
+**Notes for Cornel**  
+Twenty-eighth content piece. Bridges the plugin amp-sim article with a computer-free hardware option that many apartment players find more engaging for daily practice. Locally grounded with Bax/Thomann pricing, SEO-relevant (“multi effects pedal apartment”, “silent guitar practice Belgium”), and directly supports the studio-efficiency theme. Ready for your morning review.
+
 ## 2026-11-17
 
 **What I built**  
