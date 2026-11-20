@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Loop Pedals for Quiet Practice, Songwriting, and Layered Demos: Practical 2026 Guide for Apartment Guitarists in Belgium and the Netherlands](content/2026-11-20-loop-pedals-quiet-practice-songwriting-demos-apartment-guitarists-be-nl.md)**  
+  Practical 2026 guide to loop pedals for silent apartment practice, timing drills, songwriting sketches and layered demos. Local prices at Bax Music/Thomann (TC Ditto ~€70–85, Boss RC-1 ~€110, RC-5 ~€210, Mooer GL100 ~€129), headphone workflows, and how better home arrangements reduce retakes at typical BE/NL studio rates (€50–100+/h).
+
 - **[Multi-Effects Pedals and Modelers for Quiet Apartment Practice and Demo Recording: Practical 2026 Guide for Guitarists in Belgium and the Netherlands](content/2026-11-19-multi-effects-pedals-quiet-apartment-practice-demos-be-nl.md)**  
   Practical 2026 guide to multi-effects pedals and amp modelers (Zoom G1X Four ~€90–110, Valeton GP-200 ~€280–350, ToneX Pedal ~€290–330 at Bax/Thomann) for silent apartment practice with looper/drums, clean demo recording via USB or DI, and how better home tones reduce retakes at typical BE/NL studio rates (€50–100+/h). Complements the existing amp-sim plugins article.
 
