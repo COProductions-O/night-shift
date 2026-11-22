@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Noise Rules and Neighbor Etiquette for Quiet Guitar Practice in Apartments: Practical 2026 Guide for Players in Belgium and the Netherlands](content/2026-11-22-noise-rules-neighbor-etiquette-apartment-guitar-practice-be-nl.md)**  
+  Practical 2026 overview of local noise regulations (VLAREM private-home rules in Flanders, municipal APVs and night-rest customs in the Netherlands), neighbor communication steps, and headphone workflows (EHX Headphone Amp ~€51–52, Boss Katana:Go ~€109–116 at Bax/Thomann) so apartment guitarists can practice consistently without complaints and reduce retakes at typical BE/NL studio rates (€50–100+/h).
+
 - **[Loop Pedals for Quiet Practice, Songwriting, and Layered Demos: Practical 2026 Guide for Apartment Guitarists in Belgium and the Netherlands](content/2026-11-20-loop-pedals-quiet-practice-songwriting-demos-apartment-guitarists-be-nl.md)**  
   Practical 2026 guide to loop pedals for silent apartment practice, timing drills, songwriting sketches and layered demos. Local prices at Bax Music/Thomann (TC Ditto ~€70–85, Boss RC-1 ~€110, RC-5 ~€210, Mooer GL100 ~€129), headphone workflows, and how better home arrangements reduce retakes at typical BE/NL studio rates (€50–100+/h).
 
