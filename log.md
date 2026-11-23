@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-11-23
+
+**What I built**  
+- New article: `content/2026-11-23-budget-mics-apartment-acoustic-vocal-demos-be-nl.md`  
+  Title: Budget Microphones for Quiet Apartment Acoustic Guitar and Vocal Demos: Practical 2026 Guide for Guitarists in Belgium and the Netherlands  
+  ~1,180 words. Covers why mic choice matters more in untreated BE/NL apartments, practical recommendations with late-November 2026 local prices (Shure SM57 ~€106 Bax NL / ~€111 Thomann, Audio-Technica AT2020 ~€92 Thomann, RØDE NT1 5th Gen ~€191 Bax / ~€198 Thomann), close-miking and placement strategies for room-noise rejection, integration with existing interface and treatment workflows, and direct links to fewer retakes at typical studio rates (€50–100+/h). Complements the acoustic recording and portable treatment articles without repeating technique details.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current (late Nov 2026) street pricing and availability at Bax Music (NL) and Thomann for SM57, AT2020, and NT1 5th Gen.  
+- Recent practical guidance on dynamic vs condenser performance in untreated rooms for acoustic guitar and vocals.  
+- Confirmed no existing dedicated article on specific microphone recommendations or budget mic choices for apartment acoustic/vocal work in the repo (prior acoustic and vocal pieces focus on technique and treatment).  
+- Studio rate range remains consistent with prior entries (€50–100+/h).
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best mic 2026” roundup or deep technical comparisons that would date quickly; focused on durable criteria plus a few reliable local price points.  
+- Did not cover high-end condensers, stereo pairs, or ribbon mics; kept the scope practical and apartment-first for most adult players.  
+- Skipped USB-only or phone-mic solutions as the primary path; the XLR + interface workflow already covered is more useful long-term.  
+- No product images or affiliate-style lists; pure practical markdown.
+
+**Notes for Cornel**  
+Thirty-first content piece. Fills the practical gap between “how to record acoustic/vocals quietly” and the actual microphone purchase decision most apartment players face. Locally grounded with Bax/Thomann pricing, SEO-relevant (“budget microphone acoustic guitar apartment”, “Shure SM57 Belgium Netherlands”, “home recording mic BE NL”), and directly supports the studio-efficiency theme. Ready for your morning review.
+
 ## 2026-11-22
 
 **What I built**  
@@ -49,29 +73,4 @@ Thirtieth content piece. Fills the practical gap between “how to practice quie
 - No product images or affiliate-style lists; pure practical markdown.
 
 **Notes for Cornel**  
-Twenty-ninth content piece. Fills the practical gap between “use a click / multi-effects” and actually building layered musical ideas at home. Locally grounded with Bax/Thomann pricing, SEO-relevant (“loop pedal apartment”, “silent guitar practice Belgium”, “looper songwriting”), and directly supports the studio-efficiency theme. Ready for your morning review.
-
-## 2026-11-19
-
-**What I built**  
-- New article: `content/2026-11-19-multi-effects-pedals-quiet-apartment-practice-demos-be-nl.md`  
-  Title: Multi-Effects Pedals and Modelers for Quiet Apartment Practice and Demo Recording: Practical 2026 Guide for Guitarists in Belgium and the Netherlands  
-  ~1,200 words. Covers why multi-effects/modelers beat small practice amps in thin-walled BE/NL apartments, key features (headphone out + cab sim, looper/drums, USB audio, IR loading), local 2026 pricing at Bax Music/Thomann (Zoom G1X Four ~€90–110, Valeton GP-200 ~€280–350, ToneX Pedal ~€290–330), quiet practice and demo workflows, common pitfalls, and direct links to fewer retakes at typical studio rates (€50–100+/h). Complements the existing amp-sim plugins article without overlap.  
-- Updated `index.md` with the new listing and one-line summary at the top.  
-- This log entry.
-
-**What I researched**  
-- Current multi-effects and modeler options suited to silent practice: Zoom G1X Four (battery, looper, drums), Valeton GP-200 series (IR, USB, expression), IK Multimedia ToneX Pedal (amp captures), plus budget desktop units.  
-- Late-2026 street pricing and availability at Bax Music (NL/BE) and Thomann: Zoom ~€95–110, Valeton GP-200 ~€283+, ToneX Pedal ~€290–330 range.  
-- Practical quiet-practice and recording workflows from recent apartment guitar guides (headphone monitoring, looper/drums for timing, parallel DI).  
-- Confirmed no existing dedicated article on multi-effects pedals, hardware modelers, or standalone silent practice units in the repo (amp-sim plugins piece is software-focused).  
-- Studio rate range remains consistent with prior entries (€50–100+/h).
-
-**What I decided NOT to do and why**  
-- Avoided a ranked “best multi-effects 2026” roundup that would date quickly; focused on durable criteria plus a few reliable local price points.  
-- Did not dive into high-end floor units (Helix, Quad Cortex) or full pedalboard builds; kept the scope practical and apartment-first for most adult players.  
-- Skipped deep IR-loading tutorials or specific preset recommendations that would require constant updates.  
-- No product images or affiliate-style lists; pure practical markdown.
-
-**Notes for Cornel**  
-Twenty-eighth content piece. Bridges the plugin amp-sim article with a computer-free hardware option that many apartment players find more engaging for daily practice. Locally grounded with Bax/Thomann pricing, SEO-relevant (“multi effects pedal apartment”, “silent guitar practice Belgium”), and directly supports the studio-efficiency theme. Ready for your morning review.
+Twenty-ninth content piece. Fills the practical gap between “use a click / multi-effects” and actually building layered musical ideas at home. Locally grounded with Bax/Thomann pricing, SEO-relevant (“loop pedal apartment”, “silent guitar practice Belgium”, “loopersongwriting”), and directly supports the studio-efficiency theme. Ready for your morning review.

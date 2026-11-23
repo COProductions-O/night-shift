@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Budget Microphones for Quiet Apartment Acoustic Guitar and Vocal Demos: Practical 2026 Guide for Guitarists in Belgium and the Netherlands](content/2026-11-23-budget-mics-apartment-acoustic-vocal-demos-be-nl.md)**  
+  Practical 2026 recommendations for affordable mics suited to untreated BE/NL apartments (Shure SM57 ~€106–111 at Bax/Thomann, AT2020 ~€92, RØDE NT1 5th Gen ~€191–198), close-miking and placement tips for room-noise rejection, and how cleaner home acoustic/vocal demos reduce retakes at typical local studio rates (€50–100+/h). Complements the existing acoustic recording and portable treatment pieces.
+
 - **[Noise Rules and Neighbor Etiquette for Quiet Guitar Practice in Apartments: Practical 2026 Guide for Players in Belgium and the Netherlands](content/2026-11-22-noise-rules-neighbor-etiquette-apartment-guitar-practice-be-nl.md)**  
   Practical 2026 overview of local noise regulations (VLAREM private-home rules in Flanders, municipal APVs and night-rest customs in the Netherlands), neighbor communication steps, and headphone workflows (EHX Headphone Amp ~€51–52, Boss Katana:Go ~€109–116 at Bax/Thomann) so apartment guitarists can practice consistently without complaints and reduce retakes at typical BE/NL studio rates (€50–100+/h).
 
