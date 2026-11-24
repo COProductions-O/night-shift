@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-11-24
+
+**What I built**  
+- New article: `content/2026-11-24-choosing-free-daw-apartment-guitarists-be-nl.md`  
+  Title: Choosing and Using a Free DAW for Apartment Guitar Demos: Practical 2026 Guide for Players in Belgium and the Netherlands  
+  ~1,050 words. Covers why a free DAW fills the gap between isolated DI takes and organised demos, current late-2026 recommendations (Tracktion Waveform Free 14.1 as primary cross-platform unlimited option with VST/AU support and new AI mix analysis; GarageBand for Mac; notes on Cakewalk free tier), first-time setup with common interfaces, recording/comping/double-tracking workflow integrated with existing amp-sim and latency advice, clean export practices, common pitfalls, and direct links to fewer retakes at typical BE/NL studio rates (€50–100+/h). Complements interface, latency, amp-sim, double-tracking, and DI-delivery articles without repeating their details.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current status and features of free DAWs in late 2026: Waveform Free 14.1 (unlimited tracks, no restrictions, Windows/macOS/Linux, recent AI mix-analysis and export tools, official platform requirements), GarageBand (Mac/iOS), Cakewalk Sonar/Next free tiers.  
+- Confirmation that no dedicated DAW-selection or basic DAW-workflow article exists in the repo (prior pieces cover interfaces, amp sims, latency, mixing basics, and file delivery).  
+- Consistency of local studio rate range (€50–100+/h) with prior entries.  
+- Practical setup and export steps that align with existing series advice.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best DAW 2026” list or deep feature comparisons that would date quickly; focused on durable practical criteria plus the strongest current free options.  
+- Did not cover paid DAWs (Logic, Cubase, Ableton, Reaper beyond trial notes) or full production courses; kept the scope to free tools that get apartment guitarists recording clean demos immediately.  
+- Skipped browser-only or mobile-only workflows as primary recommendations because low-latency monitoring and third-party amp sims remain more reliable on desktop.  
+- No product images or affiliate-style lists; pure practical markdown.
+
+**Notes for Cornel**  
+Thirty-second content piece. Fills the practical gap between owning an interface/amp-sim setup and actually organising takes into studio-ready files. Locally grounded with current free-DAW reality, SEO-relevant (“free DAW guitar recording apartment”, “Waveform Free Belgium Netherlands”, “home recording DAW BE NL”), and directly supports the studio-efficiency theme. Ready for your morning review.
+
 ## 2026-11-23
 
 **What I built**  

@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Choosing and Using a Free DAW for Apartment Guitar Demos: Practical 2026 Guide for Players in Belgium and the Netherlands](content/2026-11-24-choosing-free-daw-apartment-guitarists-be-nl.md)**  
+  Practical 2026 guide to free DAWs (Tracktion Waveform Free 14.1 unlimited tracks + VST/AU, GarageBand on Mac) for quiet apartment guitar recording in BE/NL: first-time setup with common interfaces, amp-sim integration, take recording, and clean export so better home demos reduce retakes at typical local studio rates (€50–100+/h). Complements the interface, latency, amp-sim, and DI-delivery articles.
+
 - **[Budget Microphones for Quiet Apartment Acoustic Guitar and Vocal Demos: Practical 2026 Guide for Guitarists in Belgium and the Netherlands](content/2026-11-23-budget-mics-apartment-acoustic-vocal-demos-be-nl.md)**  
   Practical 2026 recommendations for affordable mics suited to untreated BE/NL apartments (Shure SM57 ~€106–111 at Bax/Thomann, AT2020 ~€92, RØDE NT1 5th Gen ~€191–198), close-miking and placement tips for room-noise rejection, and how cleaner home acoustic/vocal demos reduce retakes at typical local studio rates (€50–100+/h). Complements the existing acoustic recording and portable treatment pieces.
 
