@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-11-25
+
+**What I built**  
+- New article: `content/2026-11-25-building-simple-drum-sketches-guitar-demos-free-tools-be-nl.md`  
+  Title: Building Simple Drum Sketches for Guitar Demos with Free Tools: Practical 2026 Guide for Apartment Players in Belgium and the Netherlands  
+  ~1,260 words. Covers why a free drum foundation improves guitar writing and timing practice in apartments, current late-2026 free options (MT Power Drum Kit 2 groove library with drag-and-drop MIDI as primary; GarageBand Drummer as zero-plugin Mac alternative), a 15-minute workflow integrated with existing free DAW / latency / click / DI-export advice, common pitfalls, and direct links to fewer retakes at typical BE/NL studio rates (€50–100+/h). Complements the free-DAW, rhythm/timing, and click-track articles without repeating their details.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Current status of free acoustic drum VSTs in late November 2026: MT Power Drum Kit 2 (full free version, large groove library, drag-and-drop MIDI, VST3/AU, native Linux, no account required), confirmed active and recommended across multiple 2026 guides.  
+- GarageBand Drummer capabilities as a built-in alternative for Mac users.  
+- Confirmation that no dedicated article on free drum sketches, virtual drum foundations, or groove-based demo prep exists in the repo (prior pieces cover metronomes, loop pedals, click tracks, and free DAWs but not drum tools).  
+- Consistency of local studio rate range (€50–100+/h) with prior entries and recent public rate pages.
+
+**What I decided NOT to do and why**  
+- Avoided a ranked “best free drum VST 2026” list or deep technical comparisons that would date quickly; focused on durable practical criteria plus the strongest current free option with grooves.  
+- Did not cover paid drum libraries, full multi-track drum production, or electronic/hip-hop specific tools; kept the scope practical and apartment-first for most guitarists writing rock/pop/indie demos.  
+- Skipped browser-only or phone-only drum tools as primary recommendations because low-latency monitoring and integration with existing desktop DAW + amp-sim workflows remain more reliable.  
+- No product images or affiliate-style lists; pure practical markdown.
+
+**Notes for Cornel**  
+Thirty-third content piece. Fills the practical gap between owning a free DAW / amp-sim setup and actually hearing guitar parts against a musical groove. Locally grounded with current free-tool reality, SEO-relevant (“free drum VST guitar demo apartment”, “MT Power Drum Kit Belgium Netherlands”, “home recording drums BE NL”), and directly supports the studio-efficiency theme. Ready for your morning review.
+
 ## 2026-11-24
 
 **What I built**  

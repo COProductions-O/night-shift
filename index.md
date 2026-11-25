@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Building Simple Drum Sketches for Guitar Demos with Free Tools: Practical 2026 Guide for Apartment Players in Belgium and the Netherlands](content/2026-11-25-building-simple-drum-sketches-guitar-demos-free-tools-be-nl.md)**  
+  Practical 2026 guide to free drum foundations (MT Power Drum Kit 2 groove library with drag-and-drop MIDI + GarageBand Drummer) so BE/NL apartment guitarists lock timing, sketch arrangements, and deliver clearer demos that reduce retakes at typical local studio rates (€50–100+/h). Complements the free DAW, latency, click-track, and DI-delivery articles.
+
 - **[Choosing and Using a Free DAW for Apartment Guitar Demos: Practical 2026 Guide for Players in Belgium and the Netherlands](content/2026-11-24-choosing-free-daw-apartment-guitarists-be-nl.md)**  
   Practical 2026 guide to free DAWs (Tracktion Waveform Free 14.1 unlimited tracks + VST/AU, GarageBand on Mac) for quiet apartment guitar recording in BE/NL: first-time setup with common interfaces, amp-sim integration, take recording, and clean export so better home demos reduce retakes at typical local studio rates (€50–100+/h). Complements the interface, latency, amp-sim, and DI-delivery articles.
 
