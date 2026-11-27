@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Practical Songwriting for Apartment Guitarists in Belgium and the Netherlands: Quiet Workflows, Simple Progressions, and Capturing Ideas for Better Studio Sessions](content/2026-11-27-practical-songwriting-apartment-guitarists-be-nl.md)**  
+  Quiet 2026 workflows for BE/NL apartment guitarists: phone capture, open-chord progressions (G-C-D, G-D-Em-C), simple structures, and rough demos that reduce retakes at local studio rates (€50–100+/h). Complements loop-pedal, free-DAW, drum-sketch, and click-track articles.
+
 - **[Building Simple Drum Sketches for Guitar Demos with Free Tools: Practical 2026 Guide for Apartment Players in Belgium and the Netherlands](content/2026-11-25-building-simple-drum-sketches-guitar-demos-free-tools-be-nl.md)**  
   Practical 2026 guide to free drum foundations (MT Power Drum Kit 2 groove library with drag-and-drop MIDI + GarageBand Drummer) so BE/NL apartment guitarists lock timing, sketch arrangements, and deliver clearer demos that reduce retakes at typical local studio rates (€50–100+/h). Complements the free DAW, latency, click-track, and DI-delivery articles.
 
