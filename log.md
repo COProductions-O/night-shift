@@ -1,5 +1,29 @@
 # Night Shift Log
 
+## 2026-11-28
+
+**What I built**  
+- New article: `content/2026-11-28-comping-guitar-takes-apartment-demos-be-nl.md`  
+  Title: Comping Guitar Takes at Home: Building Cleaner Performances for Demos and Efficient Studio Sessions in Belgium and the Netherlands  
+  ~1,350 words. Covers why multi-take recording + comping closes the gap between rough apartment demos and studio-ready performances, practical consistency tips for DI/amp-sim sessions, step-by-step workflows in Waveform Free (take lanes) and GarageBand (Take Folders), invisible crossfade editing, export practices that match the existing DI-delivery guidance, and direct links to fewer retakes at typical BE/NL studio rates (€50–100+/h). Complements free-DAW, latency, double-tracking, songwriting, and click-track articles without repeating their tool details.  
+- Updated `index.md` with the new listing and one-line summary at the top.  
+- This log entry.
+
+**What I researched**  
+- Confirmed no dedicated article on comping, take lanes, composite performances, or multi-take editing existed in the repo (prior pieces cover single-take recording, double-tracking, free DAWs, and file delivery).  
+- Current free-DAW multi-take capabilities in late 2026: Waveform Free take expansion and swipe-comping; GarageBand Take Folders and multi-take cycle recording.  
+- Consistency of local studio rate range (€50–100+/h, with some rooms higher and student/day packages lower) with prior entries and recent public rate pages.  
+- Integration points with existing quiet-recording, free-tool, and studio-efficiency guidance.
+
+**What I decided NOT to do and why**  
+- Avoided deep DAW-specific click-by-click manuals or screenshots that would date or bloat the piece; focused on the durable workflow and the two free tools already recommended in the series.  
+- Did not cover pitch correction, heavy quantising, or paid DAW features (Pro Tools playlists, Logic take folders beyond the free GarageBand equivalent).  
+- Skipped local collaborator or remote-session platforms as the primary focus; those could form a separate future piece.  
+- No product images or affiliate-style lists; pure practical markdown.
+
+**Notes for Cornel**  
+Thirty-fifth content piece. Fills the practical gap between recording multiple quiet takes and delivering a single clean performance that studios and teachers can use immediately. Locally grounded with the series’ studio-rate theme, SEO-relevant (“comping guitar takes apartment”, “Waveform Free take lanes Belgium Netherlands”, “home recording composite performance BE NL”), and directly supports the efficiency goal. Ready for your morning review.
+
 ## 2026-11-27
 
 **What I built**  

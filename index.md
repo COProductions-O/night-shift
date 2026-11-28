@@ -1,5 +1,8 @@
 # Published Articles
 
+- **[Comping Guitar Takes at Home: Building Cleaner Performances for Demos and Efficient Studio Sessions in Belgium and the Netherlands](content/2026-11-28-comping-guitar-takes-apartment-demos-be-nl.md)**  
+  Practical 2026 guide to recording and comping multiple guitar takes quietly in BE/NL apartments using free DAWs (Waveform Free take lanes, GarageBand Take Folders). How clean home composites reduce retakes and save money at typical local studio rates (€50–100+/h). Complements the free-DAW, latency, double-tracking, and DI-delivery articles.
+
 - **[Practical Songwriting for Apartment Guitarists in Belgium and the Netherlands: Quiet Workflows, Simple Progressions, and Capturing Ideas for Better Studio Sessions](content/2026-11-27-practical-songwriting-apartment-guitarists-be-nl.md)**  
   Quiet 2026 workflows for BE/NL apartment guitarists: phone capture, open-chord progressions (G-C-D, G-D-Em-C), simple structures, and rough demos that reduce retakes at local studio rates (€50–100+/h). Complements loop-pedal, free-DAW, drum-sketch, and click-track articles.
 
